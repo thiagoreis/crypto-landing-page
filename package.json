@@ -5,7 +5,7 @@
     "build": "next build",
     "start": "next start",
     "test": "vitest --ui --coverage",
-    "coverage": "vitest run --coverage"
+    "coverage": "vitest run --coverage --watch"
   },
   "dependencies": {
     "next": "latest",
